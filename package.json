@@ -1,0 +1,23 @@
+{
+  "name": "grpc-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thitiphongD/grpc-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thitiphongD/grpc-nodejs/issues"
+  },
+  "homepage": "https://github.com/thitiphongD/grpc-nodejs#readme",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.8.0"
+  }
+}
